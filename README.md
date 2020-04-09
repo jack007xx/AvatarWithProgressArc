@@ -1,2 +1,13 @@
 # AvatarWithProgressArc
-An avatar icon with progress arc (React Component)
+
+## Props
+```
+{
+  src = "",
+  alt = "",
+  blankColor = "white",
+  lineColor = "black",
+  lineWidth = 15,
+  percentage = 10,
+}
+```
