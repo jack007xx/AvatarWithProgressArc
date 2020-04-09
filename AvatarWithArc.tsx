@@ -61,6 +61,7 @@ const AvatarWithArc = ({
             50 + 50 * Math.sin(angle)
           } ${50 - 50 * Math.cos(angle)} Z`}
           stroke={lineColor}
+          fill={lineColor}
           strokeWidth="1"
         />
       </svg>
